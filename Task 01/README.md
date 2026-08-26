@@ -26,16 +26,7 @@
 <img width="1920" height="1080" alt="Screenshot From 2026-08-26 23-13-30" src="https://github.com/user-attachments/assets/b6231fc5-69b8-436c-b2a2-cf18b32fe0d4" />
 
  6. Then i rechecked the awaken signature and finally got o/p:
-neha-praveen@neha-praveen-LOQ-15ARP9:~/Terminal-Voyage-User-Edition/GrandLine/Loguetown_Reef$ cd ../Whiskey_Peak
-neha-praveen@neha-praveen-LOQ-15ARP9:~/Terminal-Voyage-User-Edition/GrandLine/Whiskey_Peak$ git checkout whiskey_peak_investigation
-Already on 'whiskey_peak_investigation'
-Your branch is up to date with 'origin/whiskey_peak_investigation'.
-neha-praveen@neha-praveen-LOQ-15ARP9:~/Terminal-Voyage-User-Edition/GrandLine/Whiskey_Peak$ cd .baroque_works_cache
-neha-praveen@neha-praveen-LOQ-15ARP9:~/Terminal-Voyage-User-Edition/GrandLine/Whiskey_Peak/.baroque_works_cache$ export AWEKENING_SIGNATURE="ONE_PIECE{GITO_GITO_NO_AWAKENING}"
-neha-praveen@neha-praveen-LOQ-15ARP9:~/Terminal-Voyage-User-Edition/GrandLine/Whiskey_Peak/.baroque_works_cache$ ./unlock_vault.sh
-[ACCESS DENIED] Environmental Scan Failed. System user unauthorized.
-Hint: Did you export the 'AWAKENING_SIGNATURE' variable inside this session?
-neha-praveen@neha-praveen-LOQ-15ARP9:~/Terminal-Voyage-User-Edition/GrandLine/Whiskey_Peak/.baroque_works_cache$ export AWEKENING_AWAKENING_SIGNATURE="ONE_PIECE{GITO_GITO_NO_AWAKENING}" ./unlock_vault.sh
+
 SIGNATURE="ONE_PIECE{GITO_GITO_NO_AWAKENING}"
 bash: export: `./unlock_vault.sh': not a valid identifier
 neha-praveen@neha-praveen-LOQ-15ARP9:~/Terminal-Voyage-User-Edition/GrandLine/Whiskey_Peak/.baroque_works_cache$ unset AWAKENING_SIGNATURE
