@@ -13,6 +13,8 @@
  4. After suspecting one fruit , the code ./eat.sh sector_C/devil_fruit_6.txt was run which gave the o/p as:
 <img width="1768" height="787" alt="Screenshot From 2026-08-24 23-01-13" src="https://github.com/user-attachments/assets/002a61d3-c79b-4f5c-80d2-44238cd0e47f" />
 
+
+
 ## LEVEL 2 — THE TWO FACES OF WHISKEY PEAK
  1.After reading the text i understood that there is another version of the file that is hidden. from this it was understandable that Git commands were to be used.
  
