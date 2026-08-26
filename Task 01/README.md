@@ -26,18 +26,8 @@
 <img width="1920" height="1080" alt="Screenshot From 2026-08-26 23-13-30" src="https://github.com/user-attachments/assets/b6231fc5-69b8-436c-b2a2-cf18b32fe0d4" />
 
  6. Then i rechecked the awaken signature and finally got o/p:
+<img width="1920" height="1080" alt="Screenshot From 2026-08-26 23-20-24" src="https://github.com/user-attachments/assets/a446b1d8-62e7-4e1b-bd9b-c659c0e91a61" />
 
-SIGNATURE="ONE_PIECE{GITO_GITO_NO_AWAKENING}"
-bash: export: `./unlock_vault.sh': not a valid identifier
-neha-praveen@neha-praveen-LOQ-15ARP9:~/Terminal-Voyage-User-Edition/GrandLine/Whiskey_Peak/.baroque_works_cache$ unset AWAKENING_SIGNATURE
-neha-praveen@neha-praveen-LOQ-15ARP9:~/Terminal-Voyage-User-Edition/GrandLine/Whiskey_Peak/.baroque_works_cache$ AWAKENING_SIGNATURE="ONE_PIECE{GITO_GITO_NO_AWAKENING}" ./unlock_vault.sh
-[SIGNATURE MATCH] Devil Fruit aura detected. Bypassing proxy firewall...
-[SUCCESS] Decrypting Baroque transmission streams...
-Files dropped: 'marine_intercept.log' and 'bounty_hunter_feed.log'. Run diff to compare.
-neha-praveen@neha-praveen-LOQ-15ARP9:~/Terminal-Voyage-User-Edition/GrandLine/Whiskey_Peak/.baroque_works_cache$ diff marine_intercept.log bounty_hunter_feed.log
-42c42
-< LOG_STREAM_ENTRY_SECURE_NODE_042_VALID
-neha-praveen@neha-praveen-LOQ-15ARP9:~/Terminal-Voyage-User-Edition/GrandLine/Whiskey_Peak/.baroque_works_cache$ 
 
 
 
