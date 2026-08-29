@@ -11,6 +11,9 @@
 2. After that process i used command _cat legacy-stations.yml_ though which i confirmed that both prototype was same and was changed to "v2".
 3. To double confirm i used command _cd archives/east-blue_ followed by _cargo check_ and got the comment _Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.05s_.
 
+<img width="1512" height="979" alt="Screenshot From 2026-08-29 20-40-05" src="https://github.com/user-attachments/assets/a5c85e52-653d-4e9f-9eb3-d1bb72ee79de" />
+
+
 
 
 
