@@ -20,6 +20,7 @@ I used the _nano config/override.toml_ command to open up the forced settings fi
 4.**Cargo Check:** A fast compiler test that scans your code files to verify if the code layout and grammar are valid without wasting time fully building an application.
 
 5.**Linux Terminal Commands:** Text-based instructions used to control a computer without a mouse .
+
         1. _cd_  :change folders
         2. _ls_  : list files 
         3. _cat_ : read text
