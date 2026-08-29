@@ -7,3 +7,6 @@ The main blueprint file application.toml specified that the system must run as _
 2. after that i ran the command _ls -la_ config to check what was inside the settings folder and noticed a second file sitting there named _runtime.toml_.
 3. I used the _cat_ command to read both files on my screen side-by-side. By looking through them, I spotted that they had different legacy_mode with one being true and other having false.
 
+## The fixes applied:
+I used the command _nano runtime.toml_ to open the file and change _legacy_node = false_ to _legacy_node = true_ so it matches the main settings. To save my work, I pressed _Ctrl+O_ and hit _Enter_, followed by _Ctrl+X_ to exit the screen. After that, I ran _cat runtime.toml_ to make sure it saved properly, and used _cargo check_ to double-check that everything compiles perfectly.
+
