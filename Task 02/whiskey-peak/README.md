@@ -19,3 +19,6 @@ I used the command _nano runtime.toml_ to open the file and change _legacy_node 
     3. ls -la: list files
 3. Nano Editor: A basic, lightweight text editor built directly into the terminal window used to edit files using your keyboard.
 
+## Any assumptions made while restoring historical behavior:
+I assumed that legacy_node = true was correct, so I changed false to true inside the runtime file to match it.
+
