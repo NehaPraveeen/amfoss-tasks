@@ -12,12 +12,20 @@ I used the _nano config/override.toml_ command to open up the forced settings fi
 
 ## Rust, Git and Linux concepts involved: 
 1.**Ports:** Virtual door numbers on a computer that let different apps send and receive internet messages without getting their data mixed up.
+
 2. **Configuration Drift:** A problem that happens when different settings files within the same application mismatch, conflict, and cause the system to break.
+
 3.**Cargo and Rust:** Tools used to manage and build projects written in the Rust programming language. 
+
 4.**Cargo Check:** A fast compiler test that scans your code files to verify if the code layout and grammar are valid without wasting time fully building an application.
+
 5.**Linux Terminal Commands:** Text-based instructions used to control a computer without a mouse 
+
         1. _cd_  :change folders
+        
         2. _ls_  : list files 
+        
         3. _cat_ : read text
+        
 6.**Nano Editor:** A basic, lightweight text editor built directly into the terminal window used to edit files using your keyboard.
 
