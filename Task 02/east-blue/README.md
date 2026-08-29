@@ -14,6 +14,18 @@
 <img width="1512" height="979" alt="Screenshot From 2026-08-29 20-40-05" src="https://github.com/user-attachments/assets/a5c85e52-653d-4e9f-9eb3-d1bb72ee79de" />
 
 ## The Rust, Git, and Linux concepts involved:
+1. Data Protocols: The version language rules that computers use to talk to each other so they can understand incoming data.
+2. YAML Format: A simple text layout format used by developers to make clean, organized lists using text indentation.
+3. Log Journals: Special error diary files created by programs to help engineers trace down silent system warnings.
+4. Cargo Check: A fast compiler test that scans code files to verify grammar and layouts without building a heavy application.
+5. Linux Terminal Commands: Text-based instructions used to move around and control a computer without using a mouse.
+
+    1. cd    : change folders
+    2. cat   : read text contents
+    3. clear : clean up the terminal screen
+
+7. Nano Editor: A basic, lightweight text editor built directly into the terminal window used to edit files using your keyboard.
+
 
 
 
