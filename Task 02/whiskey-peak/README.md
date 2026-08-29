@@ -10,3 +10,12 @@ The main blueprint file application.toml specified that the system must run as _
 ## The fixes applied:
 I used the command _nano runtime.toml_ to open the file and change _legacy_node = false_ to _legacy_node = true_ so it matches the main settings. To save my work, I pressed _Ctrl+O_ and hit _Enter_, followed by _Ctrl+X_ to exit the screen. After that, I ran _cat runtime.toml_ to make sure it saved properly, and used _cargo check_ to double-check that everything compiles perfectly.
 
+## he Rust, Git, and Linux concepts involved: 
+1. Cargo Check: A fast compiler test that scans your code files to verify if the code layout and grammar are valid without wasting time fully building an application.
+2. Linux Terminal Commands: Text-based instructions used to control a computer without a mouse.
+
+    1. cd    : change folders
+    2. cat   : read text
+    3. ls -la: list files
+3. Nano Editor: A basic, lightweight text editor built directly into the terminal window used to edit files using your keyboard.
+
