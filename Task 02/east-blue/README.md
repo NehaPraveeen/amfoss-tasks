@@ -27,6 +27,8 @@
 
 7. Nano Editor: A basic, lightweight text editor built directly into the terminal window used to edit files using keyboard.
 
+## Any assumptions made while restoring historical behavior:
+I assumed that protocol v2 was correct and changed protocol v1 to v2.
 
 
 
