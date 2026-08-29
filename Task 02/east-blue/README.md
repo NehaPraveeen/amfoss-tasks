@@ -13,6 +13,9 @@
 
 <img width="1512" height="979" alt="Screenshot From 2026-08-29 20-40-05" src="https://github.com/user-attachments/assets/a5c85e52-653d-4e9f-9eb3-d1bb72ee79de" />
 
+## The Rust, Git, and Linux concepts involved:
+
+
 
 
 
