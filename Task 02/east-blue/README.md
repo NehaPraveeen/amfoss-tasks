@@ -25,7 +25,7 @@
     3. clear : clean up the terminal screen
     4. ls -la: list all files and folders in a directory, including hidden ones
 
-7. Nano Editor: A basic, lightweight text editor built directly into the terminal window used to edit files using your keyboard.
+7. Nano Editor: A basic, lightweight text editor built directly into the terminal window used to edit files using keyboard.
 
 
 
