@@ -13,11 +13,11 @@ Since the code compiled fine but the physical folder was missing, I used the com
 3. Cargo and Rust: Tools used to manage and build projects written in the Rust programming language.
 4. Cargo Check:A fast compiler test that scans your code files to verify if the code layout and grammar are valid without wasting time fully building an application.
 5. Linux Terminal Commands: Text-based instructions used to control a computer without a mouse.
-        1. cd    : change folders
-        2. ls    : list files. 
-        3. cat   : read text
-        4. mkdir : make a brand-new empty folder
-        5. Nano Editor: A basic, lightweight text editor built directly into the terminal window used to edit files using your keyboard.
+         1.  cd    : change folders
+         2.  ls    : list files. 
+         3.  cat   : read text
+         4.  mkdir : make a brand-new empty folder
+         5.  Nano Editor: A basic, lightweight text editor built directly into the terminal window used to edit files using your keyboard.
         
 ## --> assumptions made while restoring historical behavior:
 I assumed that since the main file wanted an assets folder to be there, creating it was the right way to match the settings.
