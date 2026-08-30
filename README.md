@@ -10,6 +10,7 @@ My hobbies include badminton, athletics, anchoring, painting and crafts, and dan
 To be completely honest, right now i don't have a specific real life/engineering problem in mind to solve yet.i am entering this field newly with basic knowledge of python which i had learnt in my 11th 12th grade but that isnt enough to build real, practical skills for outer world. my current focus is to learn and grasp as much knowledge as i can by joining this club.
 
 ## Something I learned outside a classroom and how:
+Genuinely speaking, I feel like I have learned a lot in the past few weeks while trying to figure out these tasks. It felt like I was learning a completely new language because everything was so unfamiliar in the initial stages when I had just started. Gradually, I picked up the pace and started getting the hang of all the Git and Linux commands, and how to navigate the terminal tasks. It has been a confusing yet enthusiastic journey of unraveling mysteries, and I really hope I get into amFOSS so I can continue this journey of learning new things.
 
 
 ## How I intend to contribute back to the club:
