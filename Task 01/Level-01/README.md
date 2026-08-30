@@ -10,6 +10,7 @@
 
  3. With the help of the above commands I found the unique fruit, identification being all the files looked same after typing ls -l except for the devil_fruit_06 in sector_C which had -x which wasn't there in any other.
   
- 4. After suspecting one fruit , the code ./eat.sh sector_C/devil_fruit_6.txt was run which gave the o/p as:
+ 4. After suspecting one fruit , the code ./eat.sh sector_C/devil_fruit_
+ 5. txt was run which gave the o/p as:
 <img width="1768" height="787" alt="Screenshot From 2026-08-24 23-01-13" src="https://github.com/user-attachments/assets/002a61d3-c79b-4f5c-80d2-44238cd0e47f" />
 
