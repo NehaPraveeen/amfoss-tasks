@@ -8,11 +8,11 @@ I started by running the _cargo check_ command to see if the files were broken. 
 Since the code compiled fine but the physical folder was missing, I used the command _mkdir config/assets_ to create the empty folder path right inside the terminal. This matches what the settings file wanted so it runs cleanly without throwing warning flags anymore.
 
 ## --> Rust, Git and Linux concepts involved:
-1.Directory Layouts: Understanding that programs sometimes need physical folders to exist in the system to run cleanly without warnings.
-2.Log Journals: Special error diary files created by programs to help engineers trace down silent system warnings.
-3.Cargo and Rust: Tools used to manage and build projects written in the Rust programming language.
-4.Cargo Check:A fast compiler test that scans your code files to verify if the code layout and grammar are valid without wasting time fully building an application.
-5.Linux Terminal Commands: Text-based instructions used to control a computer without a mouse.
+1. Directory Layouts: Understanding that programs sometimes need physical folders to exist in the system to run cleanly without warnings.
+2. Log Journals: Special error diary files created by programs to help engineers trace down silent system warnings.
+3. Cargo and Rust: Tools used to manage and build projects written in the Rust programming language.
+4. Cargo Check:A fast compiler test that scans your code files to verify if the code layout and grammar are valid without wasting time fully building an application.
+5. Linux Terminal Commands: Text-based instructions used to control a computer without a mouse.
         1. cd    : change folders
         2. ls    : list files. 
         3. cat   : read text
