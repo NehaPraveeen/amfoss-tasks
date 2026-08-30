@@ -3,12 +3,12 @@ package main
 import "fmt"
 
 type PirateCrew struct {
-	ID             string
-	ArrivalTime    int
-	BurstTime      int
+	ID string
+	ArrivalTime int
+	BurstTime int
 	CompletionTime int
 	TurnaroundTime int
-	WaitingTime    int
+	WaitingTime int
 }
 
 func main() {
@@ -16,16 +16,16 @@ func main() {
 	
 	crews := []PirateCrew{
 		{ID: "Luffy-Crew", ArrivalTime: 0, BurstTime: 5},
-		{ID: "Zoro-Crew",  ArrivalTime: 1, BurstTime: 3},
+		{ID: "Zoro-Crew", ArrivalTime: 1, BurstTime: 3},
 		{ID: "Sanji-Crew", ArrivalTime: 2, BurstTime: 4},
 	}
 
 	fmt.Println("ALGORITHM: FIRST COME FIRST SERVE (FCFS)")
 	fmt.Print("Timeline Chart: ")
 
-	currentTime := 0
-	totalWait := 0
-	totalTurnaround := 0
+	currentTime:= 0
+	totalWait:= 0
+	totalTurnaround:= 0
 
 	for i := 0; i < len(crews); i++ {
 		if currentTime < crews[i].ArrivalTime {
