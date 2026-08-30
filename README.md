@@ -14,7 +14,7 @@ Genuinely speaking, I feel like I have learned a lot in the past few weeks while
 
 
 ## How I intend to contribute back to the club:
-i plan to bring a lot of consistency, hard word and an open mind to amFOSS. Now ik how it feels like to start from basic school background as i felt completely overwhelmed by things like Git, Go language, linux commands on terminals etc as a result i believe i can support nd guide next years juniours who feel the same way. i am ready to put in the hours, help out with club activities, and collaborate heavily on team projects.
+I plan to bring a lot of consistency, hard word and an open mind to amFOSS. Now ik how it feels like to start from basic school background as i felt completely overwhelmed by things like Git, Go language, linux commands on terminals etc as a result i believe i can support nd guide next years juniours who feel the same way. i am ready to put in the hours, help out with club activities, and collaborate heavily on team projects.
 
 ##  My fields of interest and how I plan to work on them:
 Right now, my main interest is software development , but im also eager to explore UI/UX designing. I love painting, crafts, and art a lot, and its an initial thought in my head that my creative background could act as a con helping me , maybe one day , design beautiful, user-friendly digital interfaces. 
