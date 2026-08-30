@@ -1,5 +1,5 @@
 ## Installation of Ubuntu 
 Completed the Ubuntu installation. Had faced few issues while installation process.
-1. Wasnt able to split the C Drive and then as solution proceeded using Drive(because of some fault I lost all the photos on this laptop)
+1. Wasnt able to split the C Drive and then as solution proceeded using D Drive(because of some fault I lost all the photos on this laptop)
 2. After the downloading process I was taken into the command window and had put up the problem on thread. Followed the steps suggested by them and got that issue resolved.
 3. During Dual Booting process I wasnt able to change the enable option of secure boot to Disable. Follwed mentors and the advices suggested in the thread , thereby the issue was solved.
