@@ -1,6 +1,8 @@
 ## Task 06: Pirate King's Scheduler
 
 I treated this like a basic queue math loop using my Python background. I created a strict `struct` template to hold each crew's information. Then, I wrote a `for` loop with a running clock tracker (`currentTime`) to move time forward as each crew unloads. The code automatically subtracts their arrival hour from their finish hour to find the waiting times and prints a simple text timeline chart on the screen.
+
+
 <img width="855" height="205" alt="Screenshot From 2026-08-30 17-19-26" src="https://github.com/user-attachments/assets/eaea65b6-e8a4-4378-a4aa-5d0b820d0bb2" />
 
 
